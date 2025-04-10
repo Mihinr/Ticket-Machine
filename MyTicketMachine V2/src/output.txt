@@ -1,0 +1,112 @@
+-------------------------Printer status-------------------------
+Paper level: 0
+Toner level: 0
+
+--------------------------------------------------------------------
+Not enough resources. Waiting for refill.
+Not enough resources. Waiting for refill.
+Not enough resources. Waiting for refill.
+Not enough resources. Waiting for refill.
+
+Toner Technician is replacing the toner....
+Current toner level: 0
+Toner Technician Replaced the Toner.
+New toner level: 5
+Number of Toner refill times of the Toner Technician: 1
+
+Not enough resources. Waiting for refill.
+Not enough resources. Waiting for refill.
+Not enough resources. Waiting for refill.
+Not enough resources. Waiting for refill.
+Not enough resources. Waiting for refill.
+Not enough resources. Waiting for refill.
+Not enough resources. Waiting for refill.
+Not enough resources. Waiting for refill.
+Not enough resources. Waiting for refill.
+Not enough resources. Waiting for refill.
+Not enough resources. Waiting for refill.
+Not enough resources. Waiting for refill.
+
+Paper Technician is replacing the paper....
+Current paper level: 0
+Paper Technician Replaced the Paper.
+New paper level: 5
+Number of paper refill times of the Paper Technician: 1
+
+Ticket printed: Ticket{ticketNumber=9, ticketPrice=9000, passengerInfo=PassengerInfo[ UserID: Warner, Phone Number: 7852140236, Email Address: Warner@gmail.com]}
+Total Tickets Printed: 1
+Ticket printed: Ticket{ticketNumber=3, ticketPrice=3000, passengerInfo=PassengerInfo[ UserID: Kane, Phone Number: 5478963201, Email Address: Kane@gmail.com]}
+Total Tickets Printed: 2
+Ticket printed: Ticket{ticketNumber=5, ticketPrice=5000, passengerInfo=PassengerInfo[ UserID: Starc, Phone Number: 1201457896, Email Address: Starc@gmail.com]}
+Total Tickets Printed: 3
+Ticket printed: Ticket{ticketNumber=6, ticketPrice=6000, passengerInfo=PassengerInfo[ UserID: Marsh, Phone Number: 3698745210, Email Address: Marsh@gmail.com]}
+Total Tickets Printed: 4
+Ticket printed: Ticket{ticketNumber=4, ticketPrice=4000, passengerInfo=PassengerInfo[ UserID: Patt, Phone Number: 1254789630, Email Address: Patt@gmail.com]}
+Total Tickets Printed: 5
+Not enough resources. Waiting for refill.
+Not enough resources. Waiting for refill.
+Not enough resources. Waiting for refill.
+Not enough resources. Waiting for refill.
+Not enough resources. Waiting for refill.
+Not enough resources. Waiting for refill.
+Not enough resources. Waiting for refill.
+
+Toner Technician is replacing the toner....
+Current toner level: 0
+Toner Technician Replaced the Toner.
+New toner level: 5
+Number of Toner refill times of the Toner Technician: 2
+
+Not enough resources. Waiting for refill.
+Not enough resources. Waiting for refill.
+Not enough resources. Waiting for refill.
+Not enough resources. Waiting for refill.
+Not enough resources. Waiting for refill.
+Not enough resources. Waiting for refill.
+Not enough resources. Waiting for refill.
+
+Paper Technician is replacing the paper....
+Current paper level: 0
+Paper Technician Replaced the Paper.
+New paper level: 5
+Number of paper refill times of the Paper Technician: 2
+
+Ticket printed: Ticket{ticketNumber=10, ticketPrice=1010, passengerInfo=PassengerInfo[ UserID: Marcus, Phone Number: 1203210145, Email Address: Marcus@gmail.com]}
+Total Tickets Printed: 6
+Ticket printed: Ticket{ticketNumber=1, ticketPrice=1000, passengerInfo=PassengerInfo[ UserID: Tim, Phone Number: 0778549622, Email Address: Tim@gmail.com]}
+Total Tickets Printed: 7
+Ticket printed: Ticket{ticketNumber=12, ticketPrice=8070, passengerInfo=PassengerInfo[ UserID: Smith, Phone Number: 0012547896, Email Address: Smith@gmail.com]}
+Total Tickets Printed: 8
+Ticket printed: Ticket{ticketNumber=8, ticketPrice=8000, passengerInfo=PassengerInfo[ UserID: Adam, Phone Number: 2547896301, Email Address: Adam@gmail.com]}
+Total Tickets Printed: 9
+Ticket printed: Ticket{ticketNumber=7, ticketPrice=7000, passengerInfo=PassengerInfo[ UserID: Travis, Phone Number: 0125478963, Email Address: Travis@gmail.com]}
+Total Tickets Printed: 10
+Not enough resources. Waiting for refill.
+Not enough resources. Waiting for refill.
+
+Toner Technician is replacing the toner....
+Current toner level: 0
+Toner Technician Replaced the Toner.
+New toner level: 5
+Number of Toner refill times of the Toner Technician: 3
+
+Not enough resources. Waiting for refill.
+Not enough resources. Waiting for refill.
+
+Paper Technician is replacing the paper....
+Current paper level: 0
+Paper Technician Replaced the Paper.
+New paper level: 5
+Number of paper refill times of the Paper Technician: 3
+
+Ticket printed: Ticket{ticketNumber=11, ticketPrice=4040, passengerInfo=PassengerInfo[ UserID: Maxwell, Phone Number: 0011225544, Email Address: Maxwell@gmail.com]}
+Total Tickets Printed: 11
+Ticket printed: Ticket{ticketNumber=2, ticketPrice=2000, passengerInfo=PassengerInfo[ UserID: Martin, Phone Number: 1254789630, Email Address: Martin@gmail.com]}
+Total Tickets Printed: 12
+
+***** All the printing processes are done.*****
+
+--------------------------Printer status---------------------------
+Paper level: 3
+Toner level: 3
+--------------------------------------------------------------------
